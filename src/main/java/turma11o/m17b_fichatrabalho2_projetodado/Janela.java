@@ -7,6 +7,7 @@ public class Janela extends javax.swing.JFrame {
     public Janela() {
         initComponents();
         //Afonso
+        // João
     }
 
     /**
